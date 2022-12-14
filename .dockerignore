@@ -1,0 +1,10 @@
+**/*.http
+.txt
+.git
+.gitignore
+.cache
+.env
+**/__test.php
+/phpMyAdmin/
+/vendor/
+composer.*
